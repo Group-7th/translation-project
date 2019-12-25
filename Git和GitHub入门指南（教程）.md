@@ -1,4 +1,4 @@
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps1.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Product_Site/Images/HubSpot_Logo_2x.png?width=250&name=HubSpot_Logo_2x.png) 
 
 # ***\*Product\****
 
@@ -698,7 +698,7 @@ Date:  Thu Sep 10 17:42:15 2015 -0400
 
 窗体顶端
 
-![img](file:///C:/Users/Administrator/Desktop/translation-project/%E9%99%84%E4%BB%B62%20translation%20project/An%20Intro%20to%20Git%20and%20GitHub%20for%20Beginners%20(Tutorial)_files/0ee48652-14c2-4be1-ae50-b7d56578e6be.webp)
+
 
 HubSpot Product needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at anytime. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, check out our Privacy Policy.
 
@@ -722,7 +722,7 @@ HubSpot Product needs the contact information you provide to us to contact you a
 
 · [CAREER GROWTH](https://product.hubspot.com/blog/topic/career-growth)
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps14.png) 
+![img](file:///C:/Users/Administrator/Desktop/translation-project/%E9%99%84%E4%BB%B62%20translation%20project/An%20Intro%20to%20Git%20and%20GitHub%20for%20Beginners%20(Tutorial)_files/0ee48652-14c2-4be1-ae50-b7d56578e6be.webp) 
 
 [What is HubSpot](https://www.hubspot.com/what-is-hubspot)|[Our Story](https://www.hubspot.com/internet-marketing-company)|[Our Products](https://www.hubspot.com/products)|[Culture Code](https://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-A-Company-We-Love.aspx)
 
