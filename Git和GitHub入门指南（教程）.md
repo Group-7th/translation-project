@@ -24,7 +24,7 @@
 
 · 
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps2.png)8月，我们在HubSpot主持了“女人密码”聚会，并为初学者主持了有关使用git和GitHub的研讨会。我首先浏览了有关git的基础知识和背景的幻灯片演示，然后我们分成小组来运行我创建的用来模拟大型协作项目的教程。活动结束后我们得到了反馈，它是一个实用的动手介绍。因此，如果您还是git的新手，请按照以下步骤操作，以轻松地更改代码库，打开拉取请求（PR）并将代码合并到master分支中。任何重要的git和GitHub术语均以粗体显示，并带有指向官方git参考资料的链接。
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101-1.jpg?width=310&height=258&name=Git_101-1.jpg)8月，我们在HubSpot主持了“女人密码”聚会，并为初学者主持了有关使用git和GitHub的研讨会。我首先浏览了有关git的基础知识和背景的幻灯片演示，然后我们分成小组来运行我创建的用来模拟大型协作项目的教程。活动结束后我们得到了反馈，它是一个实用的动手介绍。因此，如果您还是git的新手，请按照以下步骤操作，以轻松地更改代码库，打开拉取请求（PR）并将代码合并到master分支中。任何重要的git和GitHub术语均以粗体显示，并带有指向官方git参考资料的链接。
 
  
 
@@ -300,7 +300,7 @@ mnelson:myproject mnelson$ git branch
 
 要在GitHub上创建新的仓库，请登录并转到GitHub主页。您应该看到一个绿色的“ +新存储库”按钮：
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps3.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot1-2.png?width=671&height=141&name=Git_101_Screenshot1-2.png) 
 
  
 
@@ -314,7 +314,7 @@ mnelson:myproject mnelson$ git branch
 
 单击按钮后，GitHub将要求您命名您的存储库并提供简短描述：
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps4.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_2-1.png?width=671&height=418&name=Git_101_Screenshot_2-1.png) 
 
  
 
@@ -432,7 +432,7 @@ To https://github.com/cubeton/mynewrepository.git
 
 如果您刷新GitHub页面，您将看到一条一个名为您的分支刚刚被推送到存储库中的注释。您还可以单击“branches”链接，查看您的分支列表。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps5.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot2.png?width=869&height=183&name=Git_101_Screenshot2.png) 
 
 现在点击上面屏幕截图中的绿色按钮。我们要pull request！
 
@@ -444,13 +444,13 @@ Pull request (或PR)是提醒仓库所有者希望对其内容进行某些更改
 
 这是您提交PR之前的页面：
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps6.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_4.png?width=869&height=548&name=Git_101_Screenshot_4.png) 
 
  
 
 这就是您提交PR申请后的情况：
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps7.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_5.png?width=869&height=557&name=Git_101_Screenshot_5.png) 
 
  
 
@@ -466,7 +466,7 @@ Pull request (或PR)是提醒仓库所有者希望对其内容进行某些更改
 
 点击绿色的“合并请求”按钮。将您的更改合并到master分支中。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps8.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_6.png?width=869&height=519&name=Git_101_Screenshot_6.png) 
 
  
 
@@ -474,13 +474,13 @@ Pull request (或PR)是提醒仓库所有者希望对其内容进行某些更改
 
 您可以通过单击新存储库首页上的“提交”来再次检查提交是否已合并。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps9.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_7.png?width=869&height=222&name=Git_101_Screenshot_7.png) 
 
  
 
 这将显示该分支中所有提交的列表。您可以看到刚刚合并的那个（合并请求2）。
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps10.png) 
+![img](https://product.hubspot.com/hs-fs/hubfs/Git_101_Screenshot_8.png?width=869&height=370&name=Git_101_Screenshot_8.png) 
 
 您还可以在右侧看到提交的哈希码。哈希码是该特定提交的唯一标识符。这对于引用特定的提交以及撤消更改很有用（使用git revert <hash code number>命令撤销）。
 
@@ -690,7 +690,7 @@ Date:  Thu Sep 10 17:42:15 2015 -0400
 
 您使用git的次数越多，您将越感到舒适。 （我抗拒不了。）
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps11.png) 
+![img](file:///C:/Users/Administrator/Desktop/translation-project/%E9%99%84%E4%BB%B62%20translation%20project/An%20Intro%20to%20Git%20and%20GitHub%20for%20Beginners%20(Tutorial)_files/0027c58.webp) 
 
 ### ***\*由梅根·尼尔森（Meghan Nelson）撰写\****
 
@@ -698,7 +698,7 @@ Date:  Thu Sep 10 17:42:15 2015 -0400
 
 窗体顶端
 
-![img](file:///C:\Users\ADMINI~1\AppData\Local\Temp\ksohtml6920\wps12.wmf)
+![img](file:///C:/Users/Administrator/Desktop/translation-project/%E9%99%84%E4%BB%B62%20translation%20project/An%20Intro%20to%20Git%20and%20GitHub%20for%20Beginners%20(Tutorial)_files/0ee48652-14c2-4be1-ae50-b7d56578e6be.webp)
 
 HubSpot Product needs the contact information you provide to us to contact you about our products and services. You may unsubscribe from these communications at anytime. For information on how to unsubscribe, as well as our privacy practices and commitment to protecting your privacy, check out our Privacy Policy.
 
